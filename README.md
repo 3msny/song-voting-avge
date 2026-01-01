@@ -1,2 +1,2 @@
 # song-voting-avge
-slide maker for avge, courtesy of google gemini
+i love vibe coding
